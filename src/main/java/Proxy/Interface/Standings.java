@@ -2,7 +2,7 @@ package Proxy.Interface;
 
 import Proxy.Model.Driver;
 
-public class Championship22 implements IDriver{
+public class Standings implements IDriver{
 
     @Override
     public Driver removePoints(Driver driver, int points) {
