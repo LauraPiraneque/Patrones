@@ -1,9 +1,9 @@
-package Proxy.Client;
+package com.unisabana.patrones.structural.client;
 
-import Proxy.Interface.Standings;
-import Proxy.Interface.IDriver;
-import Proxy.Model.Driver;
-import Proxy.Proxy.ProxyStandings;
+import com.unisabana.patrones.structural.service.Standings;
+import com.unisabana.patrones.structural.service.IDriver;
+import com.unisabana.patrones.structural.model.Driver;
+import com.unisabana.patrones.structural.proxy.ProxyStandings;
 
 public class Principal {
     public static void main(String[] args){

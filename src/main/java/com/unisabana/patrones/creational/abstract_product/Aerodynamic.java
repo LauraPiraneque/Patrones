@@ -1,6 +1,6 @@
 //Abstract product B
 
-package AbstractFactory.AbstractProduct;
+package com.unisabana.patrones.creational.abstract_product;
 
 public interface Aerodynamic {
     void print();

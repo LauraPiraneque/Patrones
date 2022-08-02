@@ -1,8 +1,8 @@
 //Concrete product B2
 
-package AbstractFactory.ConcreteProduct;
+package com.unisabana.patrones.creational.concrete_product;
 
-import AbstractFactory.AbstractProduct.Aerodynamic;
+import com.unisabana.patrones.creational.abstract_product.Aerodynamic;
 
 public class RedBullAerodynamic implements Aerodynamic{
 

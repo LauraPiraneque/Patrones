@@ -1,8 +1,8 @@
-package Proxy.Proxy;
+package com.unisabana.patrones.structural.proxy;
 
-import Proxy.Interface.Standings;
-import Proxy.Interface.IDriver;
-import Proxy.Model.Driver;
+import com.unisabana.patrones.structural.service.Standings;
+import com.unisabana.patrones.structural.service.IDriver;
+import com.unisabana.patrones.structural.model.Driver;
 
 public class ProxyStandings implements IDriver{
 

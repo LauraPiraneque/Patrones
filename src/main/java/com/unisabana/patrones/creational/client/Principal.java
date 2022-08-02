@@ -1,8 +1,8 @@
-package AbstractFactory.Client;
+package com.unisabana.patrones.creational.client;
 
-import AbstractFactory.AbstractFactory.F1Factory;
-import AbstractFactory.ConcreteFactory.FerrariFactory;
-import AbstractFactory.ConcreteFactory.RedBullFactory;
+import com.unisabana.patrones.creational.abstract_factory.F1Factory;
+import com.unisabana.patrones.creational.concrete_factory.FerrariFactory;
+import com.unisabana.patrones.creational.concrete_factory.RedBullFactory;
 import java.util.Scanner;
 
 public class Principal {

@@ -1,8 +1,8 @@
 //Concrete product A2
 
-package AbstractFactory.ConcreteProduct;
+package com.unisabana.patrones.creational.concrete_product;
 
-import AbstractFactory.AbstractProduct.Engine;
+import com.unisabana.patrones.creational.abstract_product.Engine;
 
 public class RedBullEngine implements Engine{
 

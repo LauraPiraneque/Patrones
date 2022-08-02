@@ -1,6 +1,6 @@
 //Service
 
-package Proxy.Model;
+package com.unisabana.patrones.structural.model;
 
 public class Driver {
     private int number;

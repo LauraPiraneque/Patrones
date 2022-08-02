@@ -1,6 +1,6 @@
-package Proxy.Interface;
+package com.unisabana.patrones.structural.service;
 
-import Proxy.Model.Driver;
+import com.unisabana.patrones.structural.model.Driver;
 
 public interface IDriver {
     Driver removePoints(Driver driver, int points);
